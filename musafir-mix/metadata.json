@@ -1,6 +1,0 @@
-{
-  "name": "Musafir Mix",
-  "description": "A nostalgic journey through vintage highway trips, Indian railways, retro cassette tapes, and timeless wanderlust melodies.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
